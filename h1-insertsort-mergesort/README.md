@@ -1,4 +1,4 @@
-# InsertSort and MergeSort
+# Homework 1 - InsertSort and MergeSort
 Derek Yang
 CS 325 - Algorithms
 Spring 2018
