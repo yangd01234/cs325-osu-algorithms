@@ -7,7 +7,7 @@ Spring 2018
 insertsort.py, mergesort.py, and data.txt
 
 ## Output Files:
-insertsort.out, mergesort.out
+insert.out, merge.out
 
 ## Summary:
 These programs will read and sort the data.txt file and then output as either insert.out or merge.out.  The first value of each line within data.txt is the number of integers that need to be sorted, followed by the integers.
