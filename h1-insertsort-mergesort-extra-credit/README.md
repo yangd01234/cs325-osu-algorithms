@@ -1,4 +1,4 @@
-# Insert Sort and Merge Sort Extra Credit
+# Homework 1 Extra Credit - Insert Sort and Merge Sort Worst and Best Cases
 Derek Yang
 CS 325 - Algorithms
 Spring 2018
