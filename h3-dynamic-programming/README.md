@@ -7,7 +7,7 @@ Spring 2018
 minimal_change.py and change.txt
 
 ## Output Files:
-amount.out
+amount.out - 
 Information will be outputted into change.txt with the following order:denominations, total amount, minimum number of each denomination, and minimum number of coins needed.
 
 ## Summary:
